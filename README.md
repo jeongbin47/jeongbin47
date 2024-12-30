@@ -1,4 +1,4 @@
-## Hi there 👋
+## 나는 용인대생 👋
 
 <!--
 **jeongbin47/jeongbin47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
